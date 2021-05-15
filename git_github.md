@@ -1,6 +1,6 @@
 # <center> Git Commands
 
-##Introduction
+## Introduction
 
 In the following document, I going to show the differents commads with **git** . This command are for the second week of the Structured Programming. The following aspects will be taken:
 
