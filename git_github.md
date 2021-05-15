@@ -1,4 +1,7 @@
-# Git Commands
+# <center> Git Commands
+
+##Introduction
+
 In the following document, I going to show the differents commads with **git** . This command are for the second week of the Structured Programming. The following aspects will be taken:
 
 - Basic commands of Bash
