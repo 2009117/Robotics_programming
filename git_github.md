@@ -18,7 +18,7 @@ In the following document, I going to show the differents commads with **git** .
 - **Git clone** : se usa para copiar un repositorio. Si esta en el servidor.
 - `git clone nombredeusuario@host:/path/to/repository`
  
-- **Git add**:  Para agregar archivos al a´rea de preparación. 
+- **Git add**:  Para agregar archivos al area de preparación. 
 `git add [nombre]`
 `git add * `---> ***sirve para poder agregar todo***
 
@@ -31,8 +31,6 @@ In the following document, I going to show the differents commads with **git** .
 - **Git mv**: cambiar de lugar un archivo 
 `git commit -m "Moved [nombre del archivo] to [nuevo lugar]
 ` 
-- **Git log**: 
-
 
 - **Git clone**: Para poder clonar proyectos
 `git clone [URL del proyecto que queramos clonar]`
@@ -63,7 +61,7 @@ In the following document, I going to show the differents commads with **git** .
 - **Git remote**: 
 `git remote -V`---> Nos da la lisat de los directorios que estan remotos. 
 `git remote add pb [IURL]` --->  Agrega directorios
-- ** Git fetch pb**: Muestra las últimas versiones del proyecto.
+- **Git fetch pb**:Muestra las últimas versiones del proyecto.
 `git remote pb`
 
 - **Git tag**: Mostrar versiones
@@ -76,7 +74,7 @@ In the following document, I going to show the differents commads with **git** .
 `git push`---> Se usa para enviar confirmaciones locales 
 `git push origin < master >`---> En esta es la misma solo que podemos cambiar la rama a la que queremos que vaya.
 
-- ** Git branch** para crear ramas
+- **Git branch** para crear ramas
 `git branch`
 `git branch < nombre de la rama >`
 
