@@ -1,4 +1,4 @@
-# <center> Git Commands
+# <center>Git Commands
 
 ## Introduction
 
