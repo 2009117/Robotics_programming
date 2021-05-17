@@ -95,3 +95,8 @@ In the following document, I going to show the differents commads with **git** .
 `git diff < source-branch > < target-branch >`---> Se usa para ver los conflictos que hay entre ramas antes de fusionarlas.
 
 ##
+
+### nota adicional ###
+
+*Hola, soy Hector Pat, se ve bien elaborado tu aportación acerca de los comandos de git.
+Saludos*
